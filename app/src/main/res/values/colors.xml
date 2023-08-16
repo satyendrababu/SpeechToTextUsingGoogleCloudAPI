@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="viewfinder_laser">#ffcc0000</color>
+    <color name="plazabase_color">#FC5A1B</color>
+    <color name="result_points">#c099cc00</color>
+    <color name="base_app_bg">#ccdbee</color>
+    <color name="green">#FF0BC957</color>
+</resources>
